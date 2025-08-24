@@ -45,3 +45,9 @@ dependencies:
     - pydub
     - protobuf==3.20.2
     - wandb
+    - duckduckgo_search
+    - pyttsx3
+    - diffusers
+    - accelerate
+    - safetensors
+    - bitsandbytes
